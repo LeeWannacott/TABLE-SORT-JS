@@ -1,7 +1,7 @@
 ![npm version](https://img.shields.io/npm/v/table-sort-js)
 ![npm downloads](https://img.shields.io/npm/dm/table-sort-js)
 [![jsDeliver downloads](https://data.jsdelivr.com/v1/package/npm/table-sort-js/badge)](https://www.jsdelivr.com/package/npm/table-sort-js)
-![repo size](https://img.shields.io/github/repo-size/kyle-wannaacott/table-sort-js)
+![repo size](https://img.shields.io/github/repo-size/kyle-wannacott/table-sort-js)
 ![MIT licence](https://img.shields.io/github/license/kyle-wannacott/table-sort-js)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ![build status](https://img.shields.io/github/actions/workflow/status/kyle-wannacott/table-sort-js/jest.yml?branch=master)
