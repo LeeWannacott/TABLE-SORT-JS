@@ -1,17 +1,17 @@
 ![npm version](https://img.shields.io/npm/v/table-sort-js)
 ![npm downloads](https://img.shields.io/npm/dm/table-sort-js)
 [![jsDeliver downloads](https://data.jsdelivr.com/v1/package/npm/table-sort-js/badge)](https://www.jsdelivr.com/package/npm/table-sort-js)
-![repo size](https://img.shields.io/github/repo-size/leewannacott/table-sort-js)
-![MIT licence](https://img.shields.io/github/license/LeeWannacott/table-sort-js)
+![repo size](https://img.shields.io/github/repo-size/kyle-wannacott/table-sort-js)
+![MIT licence](https://img.shields.io/github/license/kyle-wannacott/table-sort-js)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![build status](https://img.shields.io/github/actions/workflow/status/leewannacott/table-sort-js/jest.yml?branch=master)
+![build status](https://img.shields.io/github/actions/workflow/status/kyle-wannacott/table-sort-js/jest.yml?branch=master)
 
 # TABLE-SORT-JS.
 
 - Description: HTML table sorting library with sort type inference builtin and browser extension available. [#VanillaJS](http://vanilla-js.com/)
 
-- [Demo](https://leewannacott.github.io/Portfolio/#/GitHub)
-- [Documentation.](https://leewannacott.github.io/table-sort-js/docs/about.html)
+- [Demo](https://kyle-wannacott.github.io/Portfolio/#/GitHub)
+- [Documentation.](https://kyle-wannacott.github.io/table-sort-js/docs/about.html)
   (work in progress)
 - [npm package.](https://www.npmjs.com/package/table-sort-js) and [jsDelivr](https://www.jsdelivr.com/package/npm/table-sort-js)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/table-sort-js/) and [Chrome](https://chrome.google.com/webstore/detail/table-sort-js/dioemkojkjhlhmfiocgniipejgkbfibb) browser extensions: Tables of any website you visit become sortable!
@@ -30,7 +30,7 @@ Or non-minified version (larger size, but easier to debug!):
 <script src="https://cdn.jsdelivr.net/npm/table-sort-js/table-sort.js"></script>
 ```
 
-Example on how to use table-sort-js with [HTML](https://leewannacott.github.io/table-sort-js/docs/html5.html)
+Example on how to use table-sort-js with [HTML](https://kyle-wannacott.github.io/table-sort-js/docs/html5.html)
 
 - <b>Option 2:</b> Install from npm:
 
@@ -42,7 +42,7 @@ npm install table-sort-js
 import tableSort from "table-sort-js/table-sort.js";
 ```
 
-Examples on using table-sort-js with frontend frameworks such as [React.js](https://leewannacott.github.io/table-sort-js/docs/react.html) and [Vue.js](https://leewannacott.github.io/table-sort-js/docs/vue.html)
+Examples on using table-sort-js with frontend frameworks such as [React.js](https://kyle-wannacott.github.io/table-sort-js/docs/react.html) and [Vue.js](https://kyle-wannacott.github.io/table-sort-js/docs/vue.html)
 
 ## To make tables sortable:
 
@@ -89,4 +89,4 @@ Examples on using table-sort-js with frontend frameworks such as [React.js](http
 
 ## Development:
 
-If you wish to contribute, install instructions can be found [here.](https://leewannacott.github.io/table-sort-js/docs/development.html)
+If you wish to contribute, install instructions can be found [here.](https://kyle-wannacott.github.io/table-sort-js/docs/development.html)
